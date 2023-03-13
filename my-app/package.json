@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://pedroruano.github.io/Clinica_Medica_ES/",
+  "homepage": "https://github.com/pedroruano/Clinica_Medica_ES.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
