@@ -1,0 +1,15 @@
+HomePage
+LoginPage
+StartPage ( deppending on who is logging they have acess to different menus ( Paciente / Equipa Medica / Enfermeiros / Equipa Administrativa ) )
+PacientMenu
+MedicalTeamMenu
+NurseMenu
+FrontDeskMenu
+CallendarPage
+AppointmentPage
+RegisterPage
+RequestExamsPage
+RemedyHistoryPage
+PrescriptionHistoryPage
+ViewHistoryPage
+AvailabilityPage
